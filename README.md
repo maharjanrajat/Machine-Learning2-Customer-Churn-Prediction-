@@ -8,6 +8,11 @@ Tech Stack:
 - Google Collab
 - Standard Scaler
 - joblib
+- Streamlit
 
 
 Here is the link to the google collab: https://colab.research.google.com/drive/1IMZoXHCJ6hyI7N-V35hAejfgNxMw4jzE?usp=sharing
+
+
+This is the User Interface of the app:
+<img width="925" height="597" alt="Screenshot (439)" src="https://github.com/user-attachments/assets/e65c6dd3-c51d-40d4-aa54-6c4f18689588" />
